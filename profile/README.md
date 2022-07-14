@@ -1,12 +1,8 @@
-## Hi there 👋
+## Hi there! 👋
 
-<!--
+My name is Mitchel, I am currently 25 years old and my hometown is Utrecht (The Netherlands). In my spare time I am involved in Front-end nad Back-end development, I like to experiment with new functions related to development. I also do some craftwork in Photoshop and Illustrator. In addition, I am currently studying Software Development.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Get in touch
+If you are interested in working together, want to know more about me or just want to have a nice conversation, send me a message!
+- Discord: **[Mitchel#8894](Mitchel#8894)**
+- E-mail: **[mitchel@mexter.nl](mailto:mitchel@mexter.nl)**
